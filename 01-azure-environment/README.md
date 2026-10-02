@@ -31,7 +31,7 @@ The goal is to practice Azure resource organization, governance, cost management
 | Resource Group | RG-CLOUD-LAB |
 | Region | Central US |
 | Environment | Lab |
-| Project | CloudPlus |
+| Project | CloudEngineering |
 
 ## Implementation
 
@@ -50,7 +50,7 @@ Planned resource group:
 Planned tags:
 
 - Environment: Lab
-- Project: CloudPlus
+- Project: CloudEngineering
 - Owner: PersonalLab
 
 ### Step 4 - Cost Management
