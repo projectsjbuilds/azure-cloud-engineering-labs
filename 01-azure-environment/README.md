@@ -17,12 +17,12 @@ The goal is to practice Azure resource organization, governance, cost management
 
 ## Objectives
 
-- [ ] Verify Azure subscription access
-- [ ] Create a resource group
-- [ ] Configure resource tags
-- [ ] Configure an Azure budget
-- [ ] Verify Azure resources using PowerShell
-- [ ] Document the environment in GitHub
+- [x] Verify Azure subscription access
+- [x] Create a resource group
+- [x] Configure resource tags
+- [x] Configure an Azure budget
+- [x] Verify Azure resources using PowerShell
+- [x] Document the environment in GitHub
 
 ## Planned Resources
 
