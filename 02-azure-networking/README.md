@@ -72,3 +72,22 @@ using Azure CLI.
 
 ### Application Network Security Group
 ![Application NSG Rules](screenshots/NSG-APP-LAB.jpg)
+
+
+### NSG Security Design Notes
+
+The application subnet includes a custom inbound deny
+rule at priority 200.
+
+Azure Portal displays a warning because this rule
+restricts traffic from the VirtualNetwork service tag.
+
+This behavior is intentional for the lab.
+
+An inbound allow rule at priority 100 permits TCP 8080
+from SNET-WEB to SNET-APP before the deny rule is evaluated.
+
+The design demonstrates NSG priority evaluation,
+network segmentation, and least-privilege access.
+
+Live connectivity testing has not yet been performed.
