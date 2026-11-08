@@ -55,3 +55,20 @@ using Azure CLI.
 - Test connectivity with temporary workloads after cost review.
 - Explore VNet peering and Bicep automation.
   
+
+## Deployment Screenshots
+
+### Azure Resource Group
+![Resource Group](screenshots/RG-CLOUD-LAB%20Resource%20Group.jpg)
+
+### Virtual Network
+![Azure Virtual Network](screenshots/VNET-LAB.jpg)
+
+### Subnet Configuration
+![Azure Subnets](screenshots/VNET-LAB%20Subnets.jpg)
+
+### Web Network Security Group
+![Web NSG Rules](screenshots/NSG-WEB-LAB.jpg)
+
+### Application Network Security Group
+![Application NSG Rules](screenshots/NSG-APP-LAB.jpg)
